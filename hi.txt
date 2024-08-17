@@ -1,0 +1,3 @@
+hi my name is ....
+this a txt file
+i will add to an already existing repository created in github
